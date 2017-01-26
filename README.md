@@ -46,6 +46,11 @@ Atividades a serem desempenhadas:
 
 Não possui os requisitos? Você pode ajudar ajudando a divulgar esta chamada! Se quiser ajudar ainda mais, entre em contato conosco mesmo assim 😉 Sempre há muito o que fazer na Cicloiguaçu!
 
+O [Carlos Delfino](http://carlosdelfino.eti.br/ContadorDeCiclistas/) andou fazendo um trabalho sensacional:
+
+> Este é um fork do projeto original para contagem de ciclistas em ciclovias e ciclofaixas. O objetivo do fork é contribuir principalmente com o projeto original gerando um Port para RaspeberryPI e para NanoPI em principal.
+
+(GitHub)[https://github.com/carlosdelfino/ContadorDeCiclistas]
 
 -----------
 
