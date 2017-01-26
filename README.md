@@ -2,6 +2,52 @@ Contador de Ciclistas
 =====================
 
 Projeto experimental de contagem de ciclistas utilizando webcam de baixo custo.
+Quer implantar contadores digitais de ciclistas na cidade de Curitiba?
+
+A Cicloiguaçu está chamando programadores, estudantes, startups e hackers para implantar o primeiro contador digital de ciclistas da cidade de Curitiba, e você pode fazer parte do time!
+
+Por volta de 2 anos atrás o LabProdam, Laboratório de Inovação da Prefeitura de São Paulo lançou um projeto experimental de contagem de ciclistas utilizando webcam de baixo custo. Este projeto teve um grande sucesso devido à considerável precisão na contagem dos ciclistas.
+
+![Contador LabProdam](http://www.cicloiguacu.org.br/wp-content/uploads/2017/01/ciclistas-contador-700x528.jpg)
+
+[Clique no link para ver um vídeo sobre o projeto](https://www.youtube.com/watch?v=x8cXPX41zuM)
+
+Queremos implantar um sistema semelhante em Curitiba para contribuir nas políticas públicas de ciclomobilidade. Uma versão no Github da Cicloiguaçu já está disponível e seu código-fonte em C++ foi disponibilizado para qualquer um ajudar no projeto.
+https://github.com/cicloiguacu/ContadorDeCiclistas
+
+
+O trabalho é colaborativo e voluntário, mas a Cicloiguaçu pode emitir um certificado de trabalho neste projeto, caso você queira.
+
+
+Quer ajudar? Entre em Contato conosco!
+
+Pelo site: www.cicloiguacu.org.br
+
+Pelo Facebook – https://www.facebook.com/Cicloiguacu/
+
+Por e-mail – coordenacao@cicloiguacu.org.br
+
+Atividades a serem desempenhadas:
+
+* Implantação de um protótipo de Sistema de contagem
+* Levantamento de equipamentos
+* Identificação de locais para testes
+* Geração de vídeos para teste
+* Visitas in loco
+* Programação
+* Validações
+* Avaliação dos resultados obtidos
+* Aplicação de um sistema definitivo
+* Projetar expansão do sistema
+* Estudar novas possibilidades de sistemas
+* Melhorar precisão através de Inteligência Artificial e múltiplas câmeras
+* Aplicar novas tecnologias de detecção de objetos como o [YOLO: Real-Time Object Detection](http://pjreddie.com/darknet/yolo/) ![Teste YOLO com imagem](http://www.cicloiguacu.org.br/wp-content/uploads/2017/01/predictions01.jpg) ![Teste 2](http://www.cicloiguacu.org.br/wp-content/uploads/2017/01/predictions02.jpg)
+* Identificar como a solução auxilia no desenvolvimento das contagens tradicionais. [Exemplo de trabalho PDF](http://multimidia.curitiba.pr.gov.br/2015/00159285.pdf) [Exemplo](http://www.cicloiguacu.org.br/wp-content/uploads/2016/08/contador-ciclistas-20170126.png)
+
+Não possui os requisitos? Você pode ajudar ajudando a divulgar esta chamada! Se quiser ajudar ainda mais, entre em contato conosco mesmo assim 😉 Sempre há muito o que fazer na Cicloiguaçu!
+
+
+-----------
 
 Requisitos
 -----------
