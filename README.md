@@ -6,6 +6,8 @@ Quer implantar contadores digitais de ciclistas na cidade de Curitiba?
 
 A Cicloiguaçu está chamando programadores, estudantes, startups e hackers para implantar o primeiro contador digital de ciclistas da cidade de Curitiba, e você pode fazer parte do time!
 
+(http://www.cicloiguacu.org.br/wp-content/uploads/2016/08/09.png)
+
 Por volta de 2 anos atrás o LabProdam, Laboratório de Inovação da Prefeitura de São Paulo lançou um projeto experimental de contagem de ciclistas utilizando webcam de baixo custo. Este projeto teve um grande sucesso devido à considerável precisão na contagem dos ciclistas.
 
 ![Contador LabProdam](http://www.cicloiguacu.org.br/wp-content/uploads/2017/01/ciclistas-contador-700x528.jpg)
