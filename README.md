@@ -27,7 +27,7 @@ Pelo site: www.cicloiguacu.org.br
 
 Pelo Facebook – https://www.facebook.com/Cicloiguacu/
 
-Por e-mail – coordenacao@cicloiguacu.org.br
+Por e-mail – projetos@cicloiguacu.org.br
 
 Atividades a serem desempenhadas:
 
@@ -89,18 +89,19 @@ Exemplo:
 - Necessário selecionar (clicando na tela com o endereço fornecido):
 
 1) O ponto em que o contador amarelo de ciclistas da direita para a esquerda deve se localizar
-
 2) O ponto em que o contador amarelo de ciclistas da esquerda para a direita deve se localizar
-
 3) O ponto superior esquerdo da área em perspectiva 
-
 4) O ponto superior direito da área em perspectiva
-
 5) O ponto inferior esquerdo da área em perspectiva
-
 6) O ponto inferior direito da área em perspectiva
-
 7) O ponto superior esquerdo da área de corte (vermelha)
-
 8) O ponto inferior direito da área de corte (vermelha)
 
+------------------------
+
+O que precisamos no momento:
+* Mais vídeos para testes!
+* Entender o código dos arquivos para configurar de acordo com cada locação:
+- Parâmetros no .camera.conf
+- CycloTracker.cpp
+Inicialização da câmera à partir da linha 275
