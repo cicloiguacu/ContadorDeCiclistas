@@ -8,6 +8,19 @@ A Cicloiguaçu está chamando programadores, estudantes, startups e hackers para
 
 ![Contador em Curitiba](http://www.cicloiguacu.org.br/wp-content/uploads/2016/08/09.png)
 
+
+------------------------
+
+**O que precisamos no momento:**
+* Mais vídeos para testes!
+* Entender o código dos arquivos para configurar de acordo com cada locação:
+- Parâmetros no .camera.conf
+- CycloTracker.cpp
+Inicialização da câmera à partir da linha 275
+
+**[Confira as issues](https://github.com/cicloiguacu/ContadorDeCiclistas/issues) e as [atividades do projeto](https://github.com/cicloiguacu/ContadorDeCiclistas/projects/1)**
+------------------------
+
 Por volta de 2 anos atrás o LabProdam, Laboratório de Inovação da Prefeitura de São Paulo lançou um projeto experimental de contagem de ciclistas utilizando webcam de baixo custo. Este projeto teve um grande sucesso devido à considerável precisão na contagem dos ciclistas.
 
 ![Contador LabProdam](http://www.cicloiguacu.org.br/wp-content/uploads/2017/01/ciclistas-contador-700x528.jpg)
@@ -96,12 +109,3 @@ Exemplo:
 6) O ponto inferior direito da área em perspectiva
 7) O ponto superior esquerdo da área de corte (vermelha)
 8) O ponto inferior direito da área de corte (vermelha)
-
-------------------------
-
-O que precisamos no momento:
-* Mais vídeos para testes!
-* Entender o código dos arquivos para configurar de acordo com cada locação:
-- Parâmetros no .camera.conf
-- CycloTracker.cpp
-Inicialização da câmera à partir da linha 275
